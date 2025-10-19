@@ -14,7 +14,7 @@
 // console.log(student.level);
 // const person = ["Manish", "Rahul", "Prince"]
 // console.log(person)
-// a = 5;
-// b = 5;
-// i = a + b;
-// console.log(i)
+a = 5;
+b = 5;
+i = a + b;
+console.log(i)
